@@ -41,7 +41,7 @@ function Navbar() {
               to="headerbg"
               style={{ cursor: "pointer" }}
             >
-              DarkLeas
+             X-Brook Tech
             </Link>
           </h1>
           <ul className="bar">

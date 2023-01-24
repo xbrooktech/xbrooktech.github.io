@@ -56,20 +56,6 @@ function Footer() {
                   </li>
                 </ul>
               </div>
-              <div className="col-md-3">
-                <p className="footer-title">Social Media</p>
-                <ul>
-                  <li>
-                    <a target="_blank" rel="noreferrer" href="https://github.com/darkleas" > Github</a>
-                  </li>
-                  <li>
-                    <a target="_blank" rel="noreferrer" href="https://twitter.com/burhankocadag0" > Twitter</a>
-                  </li>
-                  <li>
-                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/burhan-kocada%C4%9F-49a3331a5/"> Linkedin</a>
-                  </li>
-                </ul>
-              </div>
             </div>
           </div>
         </div>
