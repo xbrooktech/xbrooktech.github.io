@@ -33,6 +33,7 @@ function Navbar() {
     <nav className="navbar">
       <div className="container">
         <div className="row">
+          <img src="./logo192.png" ></img>
           <h1 className="logo">
             <Link
               spy={true}

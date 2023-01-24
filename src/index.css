@@ -116,7 +116,7 @@ code {
   top: 0;
   width: 100% ;
   padding: 0.5rem;
-  background-color: transparent;
+  background-color: #010606; 
   z-index: 2;
   backdrop-filter: blur(2px);
 }
@@ -186,7 +186,7 @@ video {
   z-index: 0;
   top: 0;
   background-color: black;
-  opacity: 0.7;
+  opacity: 0.4;
 
 }
 header {
